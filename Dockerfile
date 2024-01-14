@@ -9,3 +9,5 @@ WORKDIR /ultra-cool-app
 RUN npm install
 
 CMD npm start
+
+EXPOSE 8080
